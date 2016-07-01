@@ -1,1 +1,1 @@
-# gazingIntoTheFaceOfMadness
+# GazingIntoTheFaceOfMadness
